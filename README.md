@@ -1,8 +1,6 @@
 # Hello Everyone! 👋
 
 I am a Software Engineering Student who is currently interested to get into companies through my learning software development, data structures, and web technologies. Implementing by building projects using Java, Python, and SQL in Git.
-
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BharkaviPM&layout=compact)
 <!--
 **BharkaviPM/BharkaviPM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Bharkavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BharkaviPM&show_icons=true&theme=radical)
