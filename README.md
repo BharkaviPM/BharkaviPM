@@ -1,8 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Bharkavi! 👋
 
+### I'm working on
+- Currently learning software development, data structures, and web technologies.
+- Building projects using Java, Python, and SQL.
+
+### Skills & Technologies
+- **Languages:** Java, Python, HTML/CSS, SQL
+- **Tools:** Git, GitHub, VS Code
+
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BharkaviPM&layout=compact)
 <!--
 **BharkaviPM/BharkaviPM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Bharkavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BharkaviPM&show_icons=true&theme=radical)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
