@@ -1,12 +1,6 @@
-# Hi there, I'm Bharkavi! 👋
+# Hello Everyone! 👋
 
-### I'm working on
-- Currently learning software development, data structures, and web technologies.
-- Building projects using Java, Python, and SQL.
-
-### Skills & Technologies
-- **Languages:** Java, Python, HTML/CSS, SQL
-- **Tools:** Git, GitHub, VS Code
+I am a Software Engineering Student who is currently interested to get into companies through my learning software development, data structures, and web technologies. Implementing by building projects using Java, Python, and SQL in Git.
 
 - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BharkaviPM&layout=compact)
 <!--
